@@ -12,3 +12,4 @@ Advance Git Command
 Clone
 Checkout
 Push
+Copy
